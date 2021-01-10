@@ -1,0 +1,2 @@
+# Elemental Land Cart
+An elemental land cart is an elemental vessel. It resembles a large wagon. The elemental spirit is attached to the front and acts as an engine. The elemental spirit is usually an earth spirit and is contained in a Khyber dragonshard in the front of the vehicle. Created by members of House Cannith and found rarely out of the ownership of House Cannith, Kundarak, and Orien members, this land vehicle is a rare luxury. Elemental land carts can carry up to eight passengers or a lot of cargo.
