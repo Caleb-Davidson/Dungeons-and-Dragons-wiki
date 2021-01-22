@@ -1,0 +1,4 @@
+# Merrix d'Cannith
+![](./merrix-dcannith.jpg)
+Baron Merrix d'Cannith is the current head of House Cannith South. He is one of the most renowned artificers in Khorvaire today.
+Merrix is the grandson of the first Merrix, and son of Aaren d'Cannith. He is also the former patriarch's grandnephew. Prior to the death of Starrin d'Cannith, Merrix spent most of his time in his labs performing various experiments, from that time he is regarded as one of the best alchemists that House Cannith has ever produced. He was an infant when the first warforged were made and is the youngest of the three leaders trying to become the "Great Gorgon." Being the youngest of the three he also has the weakest claim, but his skill makes the other two leaders wary of him. Additionally, some question if he could forsake his experiments and truly be a leader, but he has stepped up to the plate and led those who follow him so far.

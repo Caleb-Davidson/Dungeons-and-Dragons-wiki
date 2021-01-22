@@ -7,6 +7,8 @@
 * [Sharn](./pages/the-world/korvhall/sharn/index.md)
 - - - -
 * [Races](./pages/the-world/races/index.md)
+* [Dragonmarks](./pages/the-world/dragonmarks.md)
+* [Timeline](./pages/the-world/timeline.md)
 * [Miscellaneous](./pages/the-world/miscellaneous/index.md)
 
 

@@ -2,6 +2,8 @@
 
 ## Dragon Marked Houses
 
+[Cheat Sheet](./house-cheat-sheet.pdf)
+
 | House Title                                                      | Year Established (Estimation) |
 | :--------------------------------------------------------------- | :---------------------------- |
 | [House Vol](./dragon-marked-houses/vol/vol.md)                   | -3300                         |
